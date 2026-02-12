@@ -1,16 +1,19 @@
-## Hi there 👋
+# Keshav Anand
 
-<!--
-**keshavanand2025/keshavanand2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI & Systems Researcher  
+📍 India  
+📊 Currently building ML-based decision systems  
 
-Here are some ideas to get you started:
+## Current Projects
+- ML Refund Optimization Simulation
+- GitHub Workflow Practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Machine Learning
+- Decision Optimization
+- Applied Systems Design
+- Quantitative Finance
+
+## Goals
+- Publish student-level ML research
+- Build reproducible experiments
