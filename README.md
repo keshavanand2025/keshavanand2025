@@ -17,3 +17,6 @@
 ## Goals
 - Publish student-level ML research
 - Build reproducible experiments
+
+## Contacts 
+- Github: https://github.com/keshavanand2025
